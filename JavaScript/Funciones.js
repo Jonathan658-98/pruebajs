@@ -6,3 +6,7 @@ function suma(){
     var n1;
     //print(n1);
 }
+
+function fecha(anio, mes, dia){
+    alert(anio);
+}
