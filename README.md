@@ -6,3 +6,5 @@
 
 # Ciudad de Quito
 # Empresa: Distribuidora Nuevos horizonres del sur
+
+# FEcha de entrega: Enero - 2023
