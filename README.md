@@ -1,3 +1,4 @@
 # pruebajs
 
-# odificacion  de datos
+# codificacion  de datos utilizando JS
+
